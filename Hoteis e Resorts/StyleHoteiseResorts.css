@@ -1,0 +1,181 @@
+body{background-image:url(img/fundo.png);
+	background-color:;
+	background-repeat: no-repeat ;
+	background-position: center;
+	background-attachment: fixed;
+	background-size:cover;
+	text-align:center}	
+	#Supremo{border:10px inset black;
+			background-color:white;
+			width:1028px;
+			height:2230px;
+			margin:5px auto;}
+			
+	#Little{border :2px solid black;
+			background-color:#4068A3;
+			width: 1000px;
+			height:;
+			margin: 5px auto;
+			text-align:center;
+			}
+		#Frase1{font-size:45px;
+		font-family:French Script MT,Gabriola,Futara;
+		float:center;
+		margin:10px}
+		#Frase2{Font-size:25px;
+		font-family:Calibri;
+		margin:0px;
+		margin-left:-10%;
+		transform: translate(-10%, -10%)}
+		
+		#Logo{padding:1px;
+		background:url(img/Logos.png);
+		background-repeat: no-repeat ;
+		background-position: center ;
+		background-color:white;
+		width  : 118px;
+		height : 118px ;
+		border-width : 2px ;
+		border-color : black ;
+		border-style : solid ;
+		margin-bottom:10px;
+		border-radius: 60px;
+		float: left;
+		margin:5px;
+		text-align:center;
+		text-align:left;}
+			#US a{
+			float: right;
+			width:100px;
+			text-align:center;
+			border:;
+			margin:5px;
+			font-family:Times New Roman;
+			text-decoration:none}
+				#US a:visited{font-family:Times New Roman;
+				color:black;}
+		#Links{border:1px inset silver;
+                width:970px;
+                height:100px;
+                margin:0px auto;
+                border-radius:30px;
+                }
+            .links{width:160px;
+                color: black;
+                float:left;
+                font-size:15px;
+                font-family:Times New Roman;
+                font-weight: bold;
+                text-align:center;
+                }
+            .links a{text-decoration:none}
+				#PP{width:1024px;
+				}
+				#bordapesquisa{ margin:0px auto;
+								width:}
+					#Pesquisa{width:;
+							  height:;
+							  margin:0px;
+							  float:left;
+							  font-family:Times New Roman;}
+						#areadepesquisa{margin:px}
+						#Pesquisar{border:2px inset white;}
+				#Home1{border:;
+						width:1020px;
+						margin:0px;
+						text-align:center;}
+					#Home1 a{text-decoration:none;}
+				
+						
+						
+		#pesquisa{
+			text-align:left;
+			margin:4px;
+			font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; 
+		}
+		#edicao{border:1px solid black;
+		height:200px;
+		width:230px;
+		margin:0px;
+		}
+		#color{color:blue;}
+		#filtros{border:1px solid black;
+		text-align:left;
+		width:230px;
+		float:left;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif; }
+		#edicao2{border:9px, solid black;
+			width:260px;
+		height:300px;
+		float:left;}
+		#fontes{font-family:Georgia, serif;
+		text-align:center;}
+		.nome{border:1px solid black;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		text-align:center;
+		float:left;
+		margin:5px;
+		margin-right:30%;
+		transform: translate(30%, 30%);
+		width:170px;}
+		#hoteis{border:1px solid black;
+			width:750px;
+		height:425px;
+		float:right;
+		margin:6px;
+		padding-top:0px;
+		}
+		.sobre{border:1px solid black;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		text-align:center;
+		margin:3px;
+		margin-right:30%;
+		transform: translate(30%, 30%);
+		width:170px;
+
+		
+		}
+		.classificacao{border:1px solid black;
+		text-align:center;
+		float:right;
+		width:400px;
+		margin:10px;
+		width:100px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;}
+		
+		.estrelas{ font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+			float:right;
+		width:300px;
+		height:50px;
+		margin:50px;
+		padding-top:40px;
+		padding-right:140px;
+		}
+		.preco{border:1px solid black;
+		float:right;
+		width:80px;
+		height:60px;
+		text-align:center;
+		margin-top:15px;
+		margin-right:10px;
+		margin-bottom:-10px
+		}
+		#red{color:red;}
+		#organizar{margin:5px;}
+		#green{color:green;}
+		.rodape{border:1px solid black;
+		width:1020px;
+		float:left;
+		text-align:left;
+		background-color:#037EFF;
+		margin:3px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		}
+		.teste{width:1000px}
+		
+		.paginas{border:border 1px solid white;
+		width:1020px;
+		float:left;
+		height:50px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;}
+		

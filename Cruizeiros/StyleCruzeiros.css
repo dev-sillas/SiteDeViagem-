@@ -1,0 +1,209 @@
+body{background-image:url(img/fundo.png);
+	background-repeat: no-repeat ;
+	background-position: center;
+	background-attachment: fixed;
+	background-size:cover;
+	text-align:center}	
+	#Supremo{border:10px inset black;
+			background-color:white;
+			width:1028px;
+			height:3895px;
+			margin:5px auto;}
+			
+	#Little{border :2px solid black;
+			background-color:#4068A3;
+			width: 1000px;
+			margin: 5px auto;
+			text-align:center;
+			}
+		#Frase1{font-size:45px;
+		font-family:French Script MT,Gabriola,Futara;
+		float:center;
+		margin:10px}
+		#Frase2{Font-size:25px;
+		font-family:Calibri;
+		margin:0px;
+		margin-left:-10%;
+		transform: translate(-10%, -10%)}
+		
+		#Logo{padding:1px;
+		background:url(img/Logos.png);
+		background-repeat: no-repeat ;
+		background-position: center ;
+		background-color:white;
+		width  : 118px;
+		height : 118px ;
+		border-width : 2px ;
+		border-color : black ;
+		border-style : solid ;
+		margin-bottom:10px;
+		border-radius: 60px;
+		float: left;
+		margin:5px;
+		text-align:center;
+		text-align:left;}
+			#US a{
+			float: right;
+			width:100px;
+			text-align:center;
+			margin:5px;
+			font-family:Times New Roman;
+			text-decoration:none}
+				#US a:visited{font-family:Times New Roman;
+				color:black;}
+		#Links{border:1px inset silver;
+                width:970px;
+                height:100px;
+                margin:0px auto;
+                border-radius:30px;
+                }
+            .links{width:160px;
+                color: black;
+                float:left;
+                font-size:15px;
+                font-family:Times New Roman;
+                font-weight: bold;
+                text-align:center;
+                }
+           .links a{text-decoration:none}
+			#Home a{border:;
+					width:190px;
+					text-align:left;
+					margin:4px;
+					color:Blue;
+					text-decoration:none}
+				#Home a:visited{color:blue;
+				font-family:times new romam;}
+				#PP{width:1024px;
+				}
+				#bordapesquisa{ margin:0px auto;}
+					#Pesquisa{
+							  margin:0px;
+							  float:left;
+							  font-family:Times New Roman;}
+						#areadepesquisa{margin:px}
+						#Pesquisar{border:2px inset white;}
+				#Home1{width:1020px;
+						margin:0px;
+						text-align:center;}
+
+				
+
+/*estilos conteudo*/
+
+#pgn{border:3px solid black ;
+	height: 86px;
+	width:940px;
+	margin:0px auto;
+	border-radius: 20px;
+	}
+
+	#menuc{border:2px black solid;
+		width: 130px;
+		height: 390px;
+		border-radius: 20px auto;
+		}
+
+	#image{float:right;
+		position: top;}
+
+	#pn{float: left ;
+	height: 50px;
+	width:150px;
+	margin: 10px;
+	
+	}
+
+	#px{float: left;}
+
+	#pctcruzeiros{border: 3px black solid;
+	background-attachment: aquamarine;
+	width: 300px;
+	height: 550px;
+	border-radius: 5px;
+	margin: 15px;}
+
+	#ima{border: black 3px solid;
+	width: 850px;
+	height: 390px;
+	float: right;}
+
+	
+#pg{border:3px solid black;
+	height: 200px;
+	width:850px;
+	margin:20px auto;
+	border-radius: 20px;
+	background-image:url(img/jeremy-bishop-7g5juwG5jrQ-unsplash.jpg);
+	position: center;
+	background-position: center;
+	}
+
+	#im{border: black 2px solid;
+	width: 450px;
+	height: 350px;}
+
+	.ft{ font-size: 60px;
+
+	}
+
+	h2{color: black;
+		font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif Helvetica Neue Helvetica sans-serif;}
+
+	h7{font-size: 30px;
+		color: black;
+		font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif Helvetica Neue Helvetica sans-serif;}
+
+	#isb{text-align-last: center;}
+
+	.btn-dark{background-color: lightblue;
+		margin: 0px auto;
+		height: 30px;
+		width: 80px;
+		border: black 2px;
+		border-radius: 5px;
+	}
+	.input-medium{background-color: white;
+	float: left;
+	margin-left: 600px;}
+
+	#bus{width: 800px;
+	height: 180px;
+	margin-left: 30px;}
+
+	.container{margin: 20px;}
+
+	#menup{width: 126px;
+	height: 50px;
+	margin-top: 16px;}
+
+	#pr{background-image:url(img/jeremy-bishop-7g5juwG5jrQ-unsplash.jpg);
+		background-repeat: no-repeat ;
+		background-position: center;
+		width:1028px;
+		height:auto;
+		margin:5px auto;
+		border:10px inset black;}
+
+/*fim dos estilos do conteudo*/
+				
+						
+						
+		
+.rodape{border:1px solid black;
+		width:1020;
+		height:auto;
+		float: left;
+		text-align:left;
+		background-color:#037EFF;
+		margin:3px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		}
+	.teste{width:1000px}
+		
+	.paginas{border:border 1px solid white;
+		width:1020px;
+		float:left;
+		height:50px;
+		font-family:Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;}
+		
